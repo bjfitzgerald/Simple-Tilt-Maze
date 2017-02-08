@@ -21,10 +21,4 @@ C. Known issues
 - Tilting the board significantly right upon ball launch at the goal 
 causes the ball to not launch straight up, but it still launches far
 and off the screen. Functionality-wise, this is not an issue - it is
-more of an aesthetics issue.
-
-------------------------------------------------------------------------
-D. External resources
-- I found this tutorial useful: 
-	https://www.youtube.com/watch?v=ma2QGWIo64Y
- 
+more of an aesthetics issue. 
